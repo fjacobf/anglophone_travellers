@@ -5,7 +5,7 @@ Website: [https://atp.fcsh.unl.pt/](https://atp.fcsh.unl.pt/)
 
 API: [https://cetapsrepository.letras.up.pt/server/api](https://cetapsrepository.letras.up.pt/server/api)
 
-You can use the [HAL Browser](https://cetapsrepository.letras.up.pt/server) to get a visual interface for the API.
+You can use the [HAL Browser](https://cetapsrepository.letras.up.pt/server) to get a visual interface for the API and test queries.
 
 # 1. Plugins
 

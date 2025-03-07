@@ -3,6 +3,10 @@
 
 Website: [https://atp.fcsh.unl.pt/](https://atp.fcsh.unl.pt/)
 
+API: [https://cetapsrepository.letras.up.pt/server/api](https://cetapsrepository.letras.up.pt/server/api)
+
+You can use the [HAL Browser](https://cetapsrepository.letras.up.pt/server) to get a visual interface for the API.
+
 # 1. Plugins
 
 The only plugin used was ‘Code Snippets’ to add extra code to the website.
